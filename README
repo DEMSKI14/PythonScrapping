@@ -1,0 +1,1 @@
+This code is a Python web scraping script that uses Beautiful Soup library to scrape the names and prices of ASUS laptops from Amazon's search results page. It saves the data in a CSV file.
